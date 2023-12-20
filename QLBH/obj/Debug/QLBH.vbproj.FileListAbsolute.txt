@@ -1,0 +1,30 @@
+D:\visual basic\QLBH\obj\Debug\QLBH.vbproj.AssemblyReference.cache
+D:\visual basic\QLBH\obj\Debug\QLBH.vbproj.SuggestedBindingRedirects.cache
+D:\visual basic\QLBH\obj\Debug\QLBH.NHANVIEN.resources
+D:\visual basic\QLBH\obj\Debug\QLBH.Resources.resources
+D:\visual basic\QLBH\obj\Debug\QLBH.vbproj.GenerateResource.cache
+D:\visual basic\QLBH\obj\Debug\QLBH.vbproj.CoreCompileInputs.cache
+D:\visual basic\QLBH\bin\Debug\QLBH.exe.config
+D:\visual basic\QLBH\bin\Debug\QLBH.exe
+D:\visual basic\QLBH\bin\Debug\QLBH.pdb
+D:\visual basic\QLBH\bin\Debug\QLBH.xml
+D:\visual basic\QLBH\obj\Debug\QLBH.exe
+D:\visual basic\QLBH\obj\Debug\QLBH.xml
+D:\visual basic\QLBH\obj\Debug\QLBH.pdb
+D:\visual basic\QLBH\obj\Debug\QLBH.KHÁCH_HÀNG.resources
+D:\visual basic\QLBH\obj\Debug\QLBH.Main.resources
+D:\visual basic\Đồ Án\QLBH\bin\Debug\QLBH.exe.config
+D:\visual basic\Đồ Án\QLBH\bin\Debug\QLBH.exe
+D:\visual basic\Đồ Án\QLBH\bin\Debug\QLBH.pdb
+D:\visual basic\Đồ Án\QLBH\bin\Debug\QLBH.xml
+D:\visual basic\Đồ Án\QLBH\obj\Debug\QLBH.vbproj.AssemblyReference.cache
+D:\visual basic\Đồ Án\QLBH\obj\Debug\QLBH.vbproj.SuggestedBindingRedirects.cache
+D:\visual basic\Đồ Án\QLBH\obj\Debug\QLBH.KHÁCH_HÀNG.resources
+D:\visual basic\Đồ Án\QLBH\obj\Debug\QLBH.Main.resources
+D:\visual basic\Đồ Án\QLBH\obj\Debug\QLBH.Resources.resources
+D:\visual basic\Đồ Án\QLBH\obj\Debug\QLBH.NHANVIEN.resources
+D:\visual basic\Đồ Án\QLBH\obj\Debug\QLBH.vbproj.GenerateResource.cache
+D:\visual basic\Đồ Án\QLBH\obj\Debug\QLBH.vbproj.CoreCompileInputs.cache
+D:\visual basic\Đồ Án\QLBH\obj\Debug\QLBH.exe
+D:\visual basic\Đồ Án\QLBH\obj\Debug\QLBH.xml
+D:\visual basic\Đồ Án\QLBH\obj\Debug\QLBH.pdb
